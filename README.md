@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hellooo! I'm dashita, a former student of Malacca Matriculation College and a current student of UTM. 🌱 I’m currently learning to code in C++ and looking to learn phyton as well. 📫 You can reach me @dashgg.com on Instagram or dashhh.gt@gmail.com. ⚡ Fun fact: I’m always on the hunt for cool new tech or tools to experiment with!
 
 <!--
 **Dashita-G/Dashita-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
